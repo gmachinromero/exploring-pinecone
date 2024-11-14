@@ -10,6 +10,9 @@ langchain-pinecone = "*"
 python-dotenv = "*"
 langchainhub = "*"
 black = "*"
+pypdf = "*"
+langchain-community = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
